@@ -15,5 +15,5 @@ Kategori; listeleyebilir, silebilir, güncelleyebilir ve ekleyebilir.
 
 Toplam Kategori Sayısı, Aktif-Pasif Müşteri sayısı, En yüksek Fiyatlı Üürün- En düşük fiyatlı ürün, En fazla ürünlü marka gibi veriler yer almaktadır.
 Linq Sorguları ile veri çekilmiştir.
-En Fazla ürünlü marka çekerken prosedür oluşturulmuştur.
+En Fazla ürünlü marka çekerken veritabanında prosedür oluşturulmuştur.
 
