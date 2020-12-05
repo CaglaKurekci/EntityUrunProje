@@ -13,7 +13,7 @@ Kategori; listeleyebilir, silebilir, güncelleyebilir ve ekleyebilir.
 
 3-İstatistik Butonu;
 
-Toplam Kategori Sayısı, Aktif-Pasif Müşteri sayısı, En yüksek Fiyatlı Üürün- En düşük fiyatlı ürün, En fazla ürünlü marka gibi veriler yer almaktadır.
+Toplam Kategori Sayısı, Aktif-Pasif Müşteri sayısı, En yüksek Fiyatlı Ürün- En düşük fiyatlı ürün, En fazla ürünlü marka gibi veriler yer almaktadır.
 Linq Sorguları ile veri çekilmiştir.
 En Fazla ürünlü marka çekerken veritabanında prosedür oluşturulmuştur.
 
