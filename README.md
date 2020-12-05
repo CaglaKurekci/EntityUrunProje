@@ -7,7 +7,7 @@ Mssql veritabanında 5 farklı tablo tutulmuştur.
 
 Kategori; listeleyebilir, silebilir, güncelleyebilir ve ekleyebilir.
 
-2- Üürün işlem Butonu;
+2- Ürün işlem Butonu;
 
 Ürün için gerekli alanları doldurup ürün eklenebilir, güncellenebilir,silinebilir ve listelenebilir.
 
